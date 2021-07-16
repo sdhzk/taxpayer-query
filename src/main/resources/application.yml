@@ -1,0 +1,3 @@
+app:
+  queryUrl: https://etax.sichuan.chinatax.gov.cn/yhs-web/api/xydj/nsrcx/query/list
+  pageSize: 100
